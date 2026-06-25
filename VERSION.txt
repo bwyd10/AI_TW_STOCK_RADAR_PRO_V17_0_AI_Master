@@ -1,0 +1,4 @@
+AI台股雷達 PRO v17.0｜世界冠軍 AI Master
+Build date: 2026-06-25
+Base: PRO v16.1
+New modules: ai_industry.py, ai_master.py
